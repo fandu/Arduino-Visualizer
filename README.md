@@ -4,7 +4,7 @@ Fan Du @ University of Maryland, Feb. 12, 2014
 
 ![Screenshot](http://i.imgur.com/03OMAnO.png)
 
-## Directory
+## Directories
 * sketch - for Arduino
 * visualization - for Processing
 
