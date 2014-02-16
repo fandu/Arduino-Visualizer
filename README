@@ -1,0 +1,10 @@
+#Directory
+- sketch - for Arduino
+- visualization - for Processing
+
+#How to use
+- connect your computer to the arduino leonardo
+- upload the sketch with Arduino IDE
+- run the visualization with Processing IDE
+
+Fan Du @ University of Maryland, Feb. 12, 2014
