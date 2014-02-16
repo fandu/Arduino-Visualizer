@@ -1,5 +1,7 @@
 # Serial Port Visualizer for Arduino
 
+Fan Du @ University of Maryland, Feb. 12, 2014
+
 ![Screenshot](http://i.imgur.com/03OMAnO.png)
 
 ## Directory
@@ -7,8 +9,6 @@
 * visualization - for Processing
 
 ## To run
-* connect your computer to the arduino leonardo
-* upload the sketch with Arduino IDE
-* run the visualization with Processing IDE
-
-Fan Du @ University of Maryland, Feb. 12, 2014
+1. connect your computer to the arduino leonardo
+2. upload the sketch with Arduino IDE
+3. run the visualization with Processing IDE
