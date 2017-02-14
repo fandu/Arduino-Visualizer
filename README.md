@@ -4,11 +4,11 @@ This tool collects the output of each serial port every 10ms and visualizes them
 
 ![Screenshot](http://i.imgur.com/03OMAnO.png)
 
-## Directories
+### Source codes
 * ./sketch - for Arduino
 * ./visualization - for Processing
 
-## To run
+### Usage
 * Connect your computer to the arduino leonardo.
 * Upload the sketch with Arduino IDE.
 * Run the visualization with Processing IDE.
