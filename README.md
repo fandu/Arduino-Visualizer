@@ -1,14 +1,14 @@
 # Serial Port Visualizer for Arduino
 
-Fan Du @ University of Maryland, Feb. 12, 2014
+This tool collects the output of each serial port every 10ms and visualizes them as line charts. It is particularly useful for debugging Arduino programs.
 
 ![Screenshot](http://i.imgur.com/03OMAnO.png)
 
 ## Directories
-* sketch - for Arduino
-* visualization - for Processing
+* ./sketch - for Arduino
+* ./visualization - for Processing
 
 ## To run
-1. connect your computer to the arduino leonardo
-2. upload the sketch with Arduino IDE
-3. run the visualization with Processing IDE
+* Connect your computer to the arduino leonardo.
+* Upload the sketch with Arduino IDE.
+* Run the visualization with Processing IDE.
