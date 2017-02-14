@@ -7,6 +7,7 @@ This tool collects the output of each serial port every 10ms and visualizes them
 ### Source codes
 * ./sketch - for Arduino
 * ./visualization - for Processing
+* ./writeup - for documentation
 
 ### Usage
 * Connect your computer to the arduino leonardo.
